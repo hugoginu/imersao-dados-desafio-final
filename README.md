@@ -1,11 +1,9 @@
 
-# Desafio Final Imersão Dados
+# Desafio Final Imersão Dados edição Maio de 2021
 
 **Olá Cientistas!**
 
-Neste repositório vocês vão encontrar todas as.
-
-Os critérios que utilizaremos para analisar os projetos foram divididos em duas etapas de observação, sendo elas:
+Este repositório é um projeto desenvolvido como projeto final do Desafio Imersão Dados 3 de maio de 2021 cujo objetivo é **construir um projeto de Data Science com análise exploratória e desenvolva um modelo de machine learning para auxiliar na descoberta de novos medicamentos**.
 
 
 ## Critérios de avaliação técnicos
